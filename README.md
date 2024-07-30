@@ -10,4 +10,8 @@ The 105 radiomic features represent the terminal set of the GP approach, while t
 
 To perform an experiment, download the "GP-radiomics.zip" file, uncompress it, and run the "demo.m" file.
 
+Please cite the following paper:
+
+Elisa Scalco , Wilfrido Gómez-Flores, and Giovanna Rizzo. "A Genetic Programming Approach to Radiomic-based Feature Construction for Survival Prediction in Non-Small Cell Lung Cancer," Applied Sciences, 2024 (in revision).
+
 ![picture alt](https://github.com/wgomezf/GP-radiomics/blob/main/multi.png)
