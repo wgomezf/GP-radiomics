@@ -10,4 +10,4 @@ The radiomic features represent the terminal set of the GP approach, while the f
 
 Just download the "GP-radiomics.zip" file, uncomprees it, and run the "demo.m" file to perform an experiment.
 
-![picture alt](https://github.com/wgomezf/BUS-BRA/blob/main/root.png "Directory")
+![picture alt](https://github.com/wgomezf/GP-radiomics/blob/main/multi.png)
