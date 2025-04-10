@@ -12,6 +12,6 @@ To perform an experiment, download the "GP-radiomics.zip" file, uncompress it, a
 
 Please cite the following paper:
 
-Elisa Scalco , Wilfrido Gómez-Flores, and Giovanna Rizzo. "A Genetic Programming Approach to Radiomic-based Feature Construction for Survival Prediction in Non-Small Cell Lung Cancer," Applied Sciences, 2024 (in revision).
+Elisa Scalco , Wilfrido Gómez-Flores, and Giovanna Rizzo. "A Genetic Programming Approach to Radiomic-based Feature Construction for Survival Prediction in Non-Small Cell Lung Cancer," Applied Sciences, 14(16), 6923, 2024. https://doi.org/10.3390/app141669232024.
 
 ![picture alt](https://github.com/wgomezf/GP-radiomics/blob/main/multi.png)
